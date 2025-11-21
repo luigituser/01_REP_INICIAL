@@ -5,3 +5,5 @@ Hola, soy LUIS
 Esta frase la he escrito en Git online
 
 Y ésta la he hecho en local nuevamente con Notepad++
+
+He creado una nueva rama para añadir una nueva funcionalidad, se llama feature1
